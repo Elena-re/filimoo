@@ -1,0 +1,453 @@
+{
+  "slider": [
+    {
+      "id": 1,
+      "image": "https://static.cdn.asset.filimo.com/ct/yak7i_desktop_1_v2.jpeg?width=1920&quality=85&secret=QekMR5LV0dKP8oQdQnru_w&quot",
+      "alt": "image-1"
+    },
+    {
+      "id": 2,
+      "image": "https://static.cdn.asset.filimo.com/ct/1c9ng_desktop_1_v1.jpeg?width=1920&quality=85&secret=DftBgwh3WgBOW8-PfO2GnA&quot",
+      "alt": "image-2"
+    },
+    {
+      "id": 3,
+      "image": "https://static.cdn.asset.filimo.com/ct/1m5ko_desktop_1_v1.jpeg?width=1920&quality=85&secret=l1hviLEOPrH9sA6Kq_-a1w&quot",
+      "alt": "image-3"
+    },
+    {
+      "id": 4,
+      "image": "https://static.cdn.asset.filimo.com/ct/hupya_desktop_1_v1.jpeg?width=1920&quality=85&secret=uYRmVWlkBE_GcaRgJYkKUw&quot",
+      "alt": "image-4"
+    },
+    {
+      "id": 5,
+      "image": "https://static.cdn.asset.filimo.com/ct/a31jg_desktop_1_v1.jpeg?width=1920&amp;quality=85&amp;secret=irU3OZEHxl-DCqBzmqWAvw&quot",
+      "alt": "image-5"
+    },
+    {
+      "id": 6,
+      "image": "https://static.cdn.asset.filimo.com/ct/dvtfb_desktop_1_v1.jpeg?width=1920&quality=85&secret=d4Hle05Qntk0ICtDHMd7iw&quot",
+      "alt": "image-6"
+    }
+  ],
+  "para": [
+    {
+      "id": 1,
+      "text": "95 هزار اپیزود فیلم و سریال برای تماشا داری",
+      "image": "https://img.icons8.com/?size=100&id=63312&format=png&color=000000",
+      "alt": "img-1"
+    },
+    {
+      "id": 2,
+      "text": "می‌تونی دانلود کنی بعد بدون اینترنت تماشا کنی",
+      "image": "https://img.icons8.com/?size=100&id=63312&format=png&color=000000",
+      "alt": "img-2"
+    },
+    {
+      "id": 3,
+      "text": "می‌تونی یک عضو، مخصوص تماشای کودک بسازی",
+      "image": "https://img.icons8.com/?size=100&id=63312&format=png&color=000000",
+      "alt": "img-3"
+    }
+  ],
+  "film": [
+    {
+      "id": "fim1",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_6033_563-b.jpg?width=165",
+      "alt": "img-1",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-1"
+    },
+    {
+      "id": "fim1",
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_147944_175967.jpg?width=165",
+      "alt": "img-2",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-2"
+    },
+    {
+      "id": 3,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82686_882-b.jpg?width=165",
+      "alt": "img-3",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-3"
+    },
+    {
+      "id": 4,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_26097_1-b.jpg?width=165",
+      "alt": "img-4",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-4"
+    },
+    {
+      "id": 5,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_37557_162877.jpg?width=165",
+      "alt": "img-5",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-5"
+    },
+    {
+      "id": 6,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82690_962-b.jpg?width=165",
+      "alt": "img-6",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-6"
+    }
+  ],
+  "film2": [
+    {
+      "id": 1,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_146824_164351.jpg?width=165",
+      "alt": "img-1",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-1"
+    },
+    {
+      "id": 2,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_639_995-b.jpg?width=165",
+      "alt": "img-2",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-2"
+    },
+    {
+      "id": 3,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_29420_14593-b.jpg?width=165",
+      "alt": "img-3",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-3"
+    },
+    {
+      "id": 4,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41017_932-b.jpg?width=165&quality=85&secret=iCCdAosM5VpIaQc_eFKHAA",
+      "alt": "img-4",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-4"
+    },
+    {
+      "id": 5,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_145894_154677.jpg?width=165&quality=85&secret=mba5KX_Lyr0cqvY0m_vx3w",
+      "alt": "img-5",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-5"
+    },
+    {
+      "id": 6,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_112266_164440.jpg?width=165&quality=85&secret=hokHJGARx-3nXOuLpfinIA",
+      "alt": "img-6",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/welcome-new/exclusive-fa.svg",
+      "alt2": "image-6"
+    }
+  ],
+  "slider2": [
+    {
+      "id": 1,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82686_882-b.jpg?width=165&quality=85&secret=1_5lgLmmEx8UpnWb6jHY1A",
+      "alt": "imagee-1",
+      "para": "پایتخت",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/nosub-v_new/icon-play.svg",
+      "alt2": "img1",
+      "text": "رایگان"
+    },
+    {
+      "id": 2,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_16676_331-b.jpg?width=165&quality=85&secret=4Q0sOKsHPQtVOTLs4kEvgQ",
+      "alt": "imagee-2",
+      "para": "عقرب",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/nosub-v_new/icon-play.svg",
+      "alt2": "img2",
+      "text": "رایگان"
+    },
+    {
+      "id": 3,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_26097_1-b.jpg?width=165&quality=85&secret=zKNS5MCO36dP6R20MWmPCA",
+      "alt": "imagee-3",
+      "para": "ملکه گدایان",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/nosub-v_new/icon-play.svg",
+      "alt2": "img3",
+      "text": "رایگان"
+    },
+    {
+      "id": 4,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_37557_162877.jpg?width=165&quality=85&secret=5TISom_UoBFESLgSRAucQQ",
+      "alt": "imagee-4",
+      "para": "ویرانگر",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/nosub-v_new/icon-play.svg",
+      "alt2": "img4",
+      "text": "رایگان"
+    },
+    {
+      "id": 5,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_12003_264-b.jpg?width=165&quality=85&secret=TIaDo6iDGZNR2tkxhOcbzg",
+      "alt": "imagee-5",
+      "para": "شاهرگ",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/nosub-v_new/icon-play.svg",
+      "alt2": "img5",
+      "text": "رایگان"
+    },
+    {
+      "id": 6,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_6121_429-b.jpg?width=165&quality=85&secret=2qZQaxdMnv53hxHAJB2RgQ",
+      "alt": "imagee-6",
+      "para": "بالشها",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/nosub-v_new/icon-play.svg",
+      "alt2": "img6",
+      "text": "رایگان"
+    },
+    {
+      "id": 7,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82692_194-b.jpg?width=165&quality=85&secret=XlHlDu3cATALZhmyuhFrXQ",
+      "alt": "imagee-7",
+      "para": "پایتخت",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/nosub-v_new/icon-play.svg",
+      "alt2": "img7",
+      "text": "رایگان"
+    },
+    {
+      "id": 8,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82690_962-b.jpg?width=165&quality=85&secret=zzPDwF-hvHdgEpy62Nqxog",
+      "alt": "imagee-8",
+      "para": "پایتخت",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/nosub-v_new/icon-play.svg",
+      "alt2": "img8",
+      "text": "رایگان"
+    },
+    {
+      "id": 9,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_17637_916-b.jpg?width=165&quality=85&secret=Y1OuacY3TaQCzdi43YaqzA",
+      "alt": "imagee-9",
+      "para": "پایتخت",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/nosub-v_new/icon-play.svg",
+      "alt2": "img9",
+      "text": "رایگان"
+    }
+  ],
+  "hard": [
+    {
+      "id": 1,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_148098_181296.jpg?width=165&quality=85&secret=gd0DfcV32I-fQf3tFxj31A",
+      "alt": "image-1",
+      "text": "به زودی - ستون ۱۴",
+      "para": "کارگردان:  امیرحسین همتی",
+      "inside": "درام",
+      "inside2": "هیجان انگیز",
+      "tag": "خرید بلیت",
+      "span": "اکران آنلاین",
+      "alt2": "image-1",
+      "href": "#",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/ticket.png"
+    },
+    {
+      "id": 2,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_147944_175967.jpg?width=165&quality=85&secret=ju8_Uf2DFpEvNaTERV_S0w",
+      "alt": "image-2",
+      "text": "به زودی - ستون ۱۴",
+      "para": "کارگردان:  امیرحسین همتی",
+      "inside": "درام",
+      "inside2": "هیجان انگیز",
+      "tag": "خرید بلیت",
+      "span": "اکران آنلاین",
+      "alt2": "image-2",
+      "href": "#",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/ticket.png"
+    },
+    {
+      "id": 3,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_147067_158271.jpg?width=165&quality=85&secret=9KYGIBU5GhRXXGuWwV5vDg",
+      "alt": "image-3",
+      "text": "به زودی - ستون ۱۴",
+      "para": "کارگردان:  امیرحسین همتی",
+      "inside": "درام",
+      "inside2": "هیجان انگیز",
+      "tag": "خرید بلیت",
+      "span": "اکران آنلاین",
+      "alt2": "image-3",
+      "href": "#",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/ticket.png"
+    },
+    {
+      "id": 4,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_147582_169763.jpg?width=165&quality=85&secret=VsoPsxuJTLEp2Y8xB8wv2g",
+      "alt": "image-4",
+      "text": "به زودی - ستون ۱۴",
+      "para": "کارگردان:  امیرحسین همتی",
+      "inside": "درام",
+      "inside2": "هیجان انگیز",
+      "tag": "خرید بلیت",
+      "span": "اکران آنلاین",
+      "alt2": "image-4",
+      "href": "#",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/ticket.png"
+    }
+  ],
+  "slider3": [
+    {
+      "id": 1,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_139408_65435.jpg?width=220&quality=85&secret=WX12do_0xYL-umMcIBVEFA",
+      "para": "فصل 2 قسمت 3",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/icon-lock_fill.png",
+      "alt2": "img1"
+    },
+    {
+      "id": 2,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_139217_65185.jpg?width=220&quality=85&secret=OQB_3qKp2GPwoF_LCqbnAw",
+      "alt": "image-2",
+      "para": "فصل 2 قسمت 4",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/icon-lock_fill.png",
+      "alt2": "img2"
+    },
+    {
+      "id": 3,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_139025_64859.jpg?width=220&quality=85&secret=79BBM4DTncWKdYCgRK2BDQ",
+      "alt": "image-3",
+      "para": "فصل 2 قسمت 5",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/icon-lock_fill.png",
+      "alt2": "img3"
+    },
+    {
+      "id": 4,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_134613_64640.jpg?width=220&quality=85&secret=WA8V0m9xwxffZepVYtAl5g",
+      "alt": "image-4",
+      "para": "فصل 2 قسمت 6",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/icon-lock_fill.png",
+      "alt2": "img4"
+    },
+    {
+      "id": 5,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_139741_66138.jpg?width=220&quality=85&secret=GTSKtEnIaucmvEsaDEXhqQ",
+      "alt": "image-5",
+      "para": "فصل 2 قسمت 8",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/icon-lock_fill.png",
+      "alt2": "img5"
+    },
+    {
+      "id": 6,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_139916_66722.jpg?width=220&quality=85&secret=owGsJPnDawPQ9Aq4Aptarw",
+      "alt": "image-6",
+      "para": "فصل 2 قسمت 7",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/icon-lock_fill.png",
+      "alt2": "img6"
+    }
+  ],
+  "slider5": [
+    {
+      "id": 1,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_148154_181787-b.jpg?width=220",
+      "para": "فصل 2 قسمت 3",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/icon-lock_fill.png",
+      "alt2": "img1"
+    },
+    {
+      "id": 2,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_147897_177924-b.jpg?width=220",
+      "alt": "image-2",
+      "para": "فصل 2 قسمت 4",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/icon-lock_fill.png",
+      "alt2": "img2"
+    },
+    {
+      "id": 3,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_148025_181276-b.jpg?width=220",
+      "alt": "image-3",
+      "para": "فصل 2 قسمت 5",
+      "image2": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/nosub-v_new/icon-lock_fill.png",
+      "alt2": "img3"
+    }
+  ],
+  "para2": [
+    {
+      "id": 1,
+      "text": "خرید یک بلیت برای تماشا همراه با همه خانواده",
+      "image": "https://img.icons8.com/?size=100&id=63312&format=png&color=000000",
+      "alt": "img-1"
+    },
+    {
+      "id": 2,
+      "text": "۸ ساعت زمان برای مشاهده فیلم در هر کجا",
+      "image": "https://img.icons8.com/?size=100&id=63312&format=png&color=000000",
+      "alt": "img-2"
+    },
+    {
+      "id": 3,
+      "text": "فیلم‌های روز سینمای ایران",
+      "image": "https://img.icons8.com/?size=100&id=63312&format=png&color=000000",
+      "alt": "img-3"
+    }
+  ],
+  "commnets": [
+    {
+      "id": 1,
+      "text": "خیلی خوب بود من راحت فیِلمی را که دوست داشتمو دانلود میکردم       ",
+      "image": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/big-screen_v2/1.png",
+      "alt": "img-1",
+      "name": "سالار",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/big-screen_v2/virgol.png",
+      "alt2": "image-1"
+    },
+    {
+      "id": 2,
+      "text": "این برنامه خیلی خوبه من داخل این فیلم نگاه می کنم کلی مامانم فیلم های بزرگسالان نگاه می‌کن",
+      "image": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/big-screen_v2/1.png",
+      "alt": "img-2",
+      "name": "احسان",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/big-screen_v2/virgol.png",
+      "alt2": "image-2"
+    },
+    {
+      "id": 3,
+      "text": "فیلیمو راضیوم ازت😍😍",
+      "image": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/big-screen_v2/1.png",
+      "alt": "img-3",
+      "name": "آوا",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/big-screen_v2/virgol.png",
+      "alt2": "image-3"
+    },
+    {
+      "id": 4,
+      "text": "عالیییبیبیییییییی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید 🤗🤗",
+      "image": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/big-screen_v2/1.png",
+      "alt": "img-4",
+      "name": "ستایش",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/big-screen_v2/virgol.png",
+      "alt2": "image-4"
+    },
+    {
+      "id": 5,
+      "text": "محشره 👌 واقعا دمتون گرم ، خب چیزی که باید به گرونی اشتراک بگم اینه که گرونه  ، ",
+      "image": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/big-screen_v2/1.png",
+      "alt": "img-5",
+      "name": "aref",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/big-screen_v2/virgol.png",
+      "alt2": "image-5"
+    },
+    {
+      "id": 6,
+      "text": "فیلیمو عالی من از فیلیمو رازی هستم❤❤😍🤩😘❤🍓",
+      "image": "https://www.filimo.com/assets/web/ui/img-hpUrdghdOqovx5XbGMFBNg/campaigns/big-screen_v2/1.png",
+      "alt": "img-6",
+      "name": "F.A",
+      "image2": "https://www.filimo.com/assets/web/ui/img-xR8gQOGB0ViS2CQJ3WecfQ/campaigns/big-screen_v2/virgol.png",
+      "alt2": "image-6"
+    }
+  ],
+  "para3": [
+    {
+      "id": 1,
+      "text": "هزاران انیمیشن و کارتون برای کودکان",
+      "image": "https://img.icons8.com/?size=100&id=63312&format=png&color=000000",
+      "alt": "img-1"
+    },
+    {
+      "id": 2,
+      "text": "پشتیبانی 24 ساعته برای راهنمایی شما",
+      "image": "https://img.icons8.com/?size=100&id=63312&format=png&color=000000",
+      "alt": "img-2"
+    },
+    {
+      "id": 3,
+      "text": "هزاران فیلم و سریال خارجی (دوبله و زیرنویس)",
+      "image": "https://img.icons8.com/?size=100&id=63312&format=png&color=000000",
+      "alt": "img-3"
+    }
+  ]
+}
